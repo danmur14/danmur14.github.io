@@ -4,12 +4,12 @@ Software programmer interested in game development and web programming with prof
 
 ### Professional Experience
 
-2017    Cerner Corporation    Kansas City, Missouri
+2017    Cerner Corporation,    Kansas City, Missouri
 - Software Development Intern
 Programmed and debugged interactive web applications and interfaces dealing with big data in health and finance analytics using Ruby and Javascript. Redesigned and performed unit testing on the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications. Engaged in agile development and UX design as part of the HealtheAnalytics team
 through Github. Performed code review and bug tracking using Jira and Crucible
 
-2016    AllofE    Lawrence, Kansas
+2016    AllofE,    Lawrence, Kansas
 - Software Development Intern
 Developed web applications for clients, based in education and clinical practice, and for internal
 developer and business use. Worked in Javascript and PHP to build frontend pages using the
@@ -18,12 +18,12 @@ company bug tracking software to debug and list issues found throughout the appl
 
 ### Applicable Skills
 - Used C, C++, and Python for implementation of algorithms and data structures in an academic
-setting - Git Repos: DataStructures560, CompilerConstruction665, OperatingSystems678
+setting - Git Repos: [DataStructures560](http://www.github.com/danmur14/DataStructures560), [CompilerConstruction665](https://github.com/danmur14/CompilerConstruction665), [OperatingSystems678](https://github.com/danmur14/OperatingSystems678)
 - Proficient working in Ruby, Javascript, PHP, SQL, HTML, and Github in a professional
 environment with teams and data of different sizes.
 - Experienced in parallel programming using the GPU in OpenCL, CUDA, MPI - Git Repo:
-MultiGPGPU690
-- Knowledge of low level graphics rendering and languages like GLSL - Git Repo: Graphics672
+[MultiGPGPU690](http://www.github.com/danmur14/MultiGPGPU690)
+- Knowledge of low level graphics rendering and languages like GLSL - Git Repo: [Graphics672](http://www.github.com/danmur14/Graphics672)
 - Bilingual in Spanish and English, with the ability to translate. Beginner in Japanese.
 
 ### Projects
@@ -31,13 +31,14 @@ MultiGPGPU690
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
 game scene.
 - Grayscale, 2D endless runner with a simple color switching ability, built using GameMaker
-Studio - Git Repo: Grayscale
+Studio - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
 
 ### Education
-May, 2018 The University of Kansas Lawrence, Kansas
+May, 2018 The University of Kansas, Lawrence, Kansas
+
 Bachelor of Science in Computer Science 3.6 GPA
 
 ### Honors, Awards, and Activities
-2017 - 2018 Captain of KU Overwatch Esports Team
-2014 - 2017 Kansas Honors Program
-2015 KU Ultimate Frisbee
+- 2017 - 2018 Captain of KU Overwatch Esports Team
+- 2014 - 2017 Kansas Honors Program
+- 2015 KU Ultimate Frisbee
