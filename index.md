@@ -29,9 +29,14 @@ environment with teams and data of different sizes.
 ### Projects
 - Pet Environment, VR environment and pet simulator with integrated neural network built using
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
-game scene.
+game scene. 
+
+![PE Cat](https://github.com/danmur14/danmur14.github.io/blob/master/petting.png) ![PE Menu](https://github.com/danmur14/danmur14.github.io/blob/master/pet_menuj.png)
+
 - Grayscale, 2D endless runner with a simple color switching ability, built using GameMaker
 Studio - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
+
+![GS Start](https://github.com/danmur14/danmur14.github.io/blob/master/GS_start.PNG) ![GS In Game](https://github.com/danmur14/danmur14.github.io/blob/master/GS_ig.PNG)
 
 ### Education
 May, 2018 The University of Kansas, Lawrence, Kansas
