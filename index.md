@@ -4,14 +4,14 @@ Software programmer interested in game development and web programming with prof
 
 ### Professional Experience
 
-2017    Cerner Corporation,    Kansas City, Missouri
-- Software Development Intern
+2017    _Cerner Corporation_,    Kansas City, Missouri
+- **Software Development Intern**
 
 Programmed and debugged interactive web applications and interfaces dealing with big data in health and finance analytics using Ruby and Javascript. Redesigned and performed unit testing on the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications. Engaged in agile development and UX design as part of the HealtheAnalytics team
 through Github. Performed code review and bug tracking using Jira and Crucible
 
-2016    AllofE,    Lawrence, Kansas
-- Software Development Intern
+2016    _AllofE_,    Lawrence, Kansas
+- **Software Development Intern**
 
 Developed web applications for clients, based in education and clinical practice, and for internal
 developer and business use. Worked in Javascript and PHP to build frontend pages using the
@@ -29,13 +29,13 @@ environment with teams and data of different sizes.
 - Bilingual in Spanish and English, with the ability to translate. Beginner in Japanese.
 
 ### Projects
-- Pet Environment: VR environment and pet simulator with integrated neural network built using
+- **Pet Environment**: VR environment and pet simulator with integrated neural network built using
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
 game scene. Implemented item creation and movement when interacted upon by the player
 
 <img src="https://danmur14.github.io/petting.png" alt="pecat" width="45%"/> <img src="https://danmur14.github.io/pet_menuj.png" alt="pemenu" width="45%"/>
 
-- Grayscale: 2D endless runner with a simple color switching ability, built using GameMaker
+- **Grayscale**: 2D endless runner with a simple color switching ability, built using GameMaker
 Studio. Designed the game system, created the 2D assets, and implemented the gameplay. Wrote simple test cases to check for collisions, death, etc - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
 
 <img src="https://danmur14.github.io/GS_start.PNG" alt="gsstart" width="45%"/> <img src="https://danmur14.github.io/GS_ig.PNG" alt="gsig" width="45%"/> 
