@@ -6,11 +6,13 @@ Software programmer interested in game development and web programming with prof
 
 2017    Cerner Corporation,    Kansas City, Missouri
 - Software Development Intern
+
 Programmed and debugged interactive web applications and interfaces dealing with big data in health and finance analytics using Ruby and Javascript. Redesigned and performed unit testing on the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications. Engaged in agile development and UX design as part of the HealtheAnalytics team
 through Github. Performed code review and bug tracking using Jira and Crucible
 
 2016    AllofE,    Lawrence, Kansas
 - Software Development Intern
+
 Developed web applications for clients, based in education and clinical practice, and for internal
 developer and business use. Worked in Javascript and PHP to build frontend pages using the
 ExtJS framework and the backend communication from client to servers using SQL. Used
@@ -31,12 +33,13 @@ environment with teams and data of different sizes.
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
 game scene. 
 
-![PE Cat](https://danmur14.github.io/petting.png) ![PE Menu](https://danmur14.github.io/pet_menuj.png)
+<img src="https://danmur14.github.io/petting.png" alt="pecat" width="45%"/>         <img src="https://danmur14.github.io/pet_menuj.png" alt="pemenu" width="45%"/>
 
 - Grayscale, 2D endless runner with a simple color switching ability, built using GameMaker
 Studio - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
 
-![GS Start](https://danmur14.github.io/GS_start.PNG) ![GS In Game](https://danmur14.github.io/GS_ig.PNG)
+<img src="https://danmur14.github.io/GS_start.PNG" alt="gsstart" width="45%"/> <img src="https://danmur14.github.io/GS_ig.PNG" alt="gsig" width="45%"/> 
+
 
 ### Education
 May, 2018 The University of Kansas, Lawrence, Kansas
@@ -44,6 +47,6 @@ May, 2018 The University of Kansas, Lawrence, Kansas
 Bachelor of Science in Computer Science 3.6 GPA
 
 ### Honors, Awards, and Activities
-- 2017 - 2018 Captain of KU Overwatch Esports Team
+- 2017 - 2018 Captain of KU Overwatch Esports Team [Career Profile](https://www.overbuff.com/players/pc/Senpaii-11805?mode=competitive)
 - 2014 - 2017 Kansas Honors Program
 - 2015 KU Ultimate Frisbee
