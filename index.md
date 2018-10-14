@@ -29,14 +29,14 @@ environment with teams and data of different sizes.
 - Bilingual in Spanish and English, with the ability to translate. Beginner in Japanese.
 
 ### Projects
-- Pet Environment, VR environment and pet simulator with integrated neural network built using
+- Pet Environment: VR environment and pet simulator with integrated neural network built using
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
-game scene. 
+game scene. Implemented item creation and movement when interacted upon by the player
 
-<img src="https://danmur14.github.io/petting.png" alt="pecat" width="45%"/>         <img src="https://danmur14.github.io/pet_menuj.png" alt="pemenu" width="45%"/>
+<img src="https://danmur14.github.io/petting.png" alt="pecat" width="45%"/> <img src="https://danmur14.github.io/pet_menuj.png" alt="pemenu" width="45%"/>
 
-- Grayscale, 2D endless runner with a simple color switching ability, built using GameMaker
-Studio - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
+- Grayscale: 2D endless runner with a simple color switching ability, built using GameMaker
+Studio. Designed the game system, created the 2D assets, and implemented the gameplay. Wrote simple test cases to check for collisions, death, etc - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
 
 <img src="https://danmur14.github.io/GS_start.PNG" alt="gsstart" width="45%"/> <img src="https://danmur14.github.io/GS_ig.PNG" alt="gsig" width="45%"/> 
 
@@ -47,6 +47,6 @@ May, 2018 The University of Kansas, Lawrence, Kansas
 Bachelor of Science in Computer Science 3.6 GPA
 
 ### Honors, Awards, and Activities
-- 2017 - 2018 Captain of KU Overwatch Esports Team [Career Profile](https://www.overbuff.com/players/pc/Senpaii-11805?mode=competitive)
+- 2017 - 2018 Captain of KU Overwatch Esports Team
 - 2014 - 2017 Kansas Honors Program
 - 2015 KU Ultimate Frisbee
