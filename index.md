@@ -31,12 +31,12 @@ environment with teams and data of different sizes.
 Unity in C#. Used Unity and Steam VR assets to implement the physics between objects in the
 game scene. 
 
-![PE Cat](https://github.com/danmur14/danmur14.github.io/blob/master/petting.png) ![PE Menu](https://github.com/danmur14/danmur14.github.io/blob/master/pet_menuj.png)
+![PE Cat](https://danmur14.github.io/petting.png) ![PE Menu](https://danmur14.github.io/pet_menuj.png)
 
 - Grayscale, 2D endless runner with a simple color switching ability, built using GameMaker
 Studio - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
 
-![GS Start](https://github.com/danmur14/danmur14.github.io/blob/master/GS_start.PNG) ![GS In Game](https://github.com/danmur14/danmur14.github.io/blob/master/GS_ig.PNG)
+![GS Start](https://danmur14.github.io/GS_start.PNG) ![GS In Game](https://danmur14.github.io/GS_ig.PNG)
 
 ### Education
 May, 2018 The University of Kansas, Lawrence, Kansas
