@@ -4,11 +4,16 @@ Software programmer interested in game development and web programming with prof
 
 ### Professional Experience
 
+Current		 _Cerner Corporation_,    Kansas City, Missouri	
+- **Software Engineer**
+
+Part of the Data Sets team that develops and maintains microservices such as Storefront, Data Ingestion, EDW Feed Service and their respective Ruby and Java clients. Implemented and designed using Ruby on Rails and Java; integrated with various internal packages. These service APIs are consumed by the application HealtheAnalytics, and perform big data processing using Hadoop MapReduce through Oozie workflows and coordinators. Configured, deployed, logged, and maintained jobs and services using HUE, DC/OS, Spinnaker, Chef, Spork, and Splunk.
+
+
 2017    _Cerner Corporation_,    Kansas City, Missouri
 - **Software Development Intern**
 
-Programmed and debugged interactive web applications and interfaces dealing with big data in health and finance analytics using Ruby and Javascript. Redesigned and performed unit testing on the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications. Engaged in agile development and UX design as part of the HealtheAnalytics team
-through Github. Performed code review and bug tracking using Jira and Crucible
+Programmed and debugged HealtheAnalytics, an interactive web application and interface dealing with big data in health and finance analytics using Ruby and Javascript. Redesigned and unit tested the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications. Engaged in agile development and UX design as part of the HealtheIntent team through Github. Performed code review and task tracking using Crucible and Jira.
 
 2016    _AllofE_,    Lawrence, Kansas
 - **Software Development Intern**
