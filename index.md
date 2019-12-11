@@ -4,42 +4,45 @@ Software programmer interested in game development and web programming with prof
 
 ### Professional Experience
 
-Current		 _Cerner Corporation_,    Kansas City, Missouri	
+Oct, 2018 - Current		 _Cerner Corporation_,    Kansas City, Missouri	
 
 **Software Engineer**
 
-- Part of the Data Sets team that develops and maintains microservices such as Storefront, Data Ingestion, EDW Feed Service with their respective Ruby and Java clients. Implemented and designed using Ruby on Rails and Java; integrated with various internal packages maintained by other teams. These service APIs are consumed by the application HealtheAnalytics, and perform big data processing using Hadoop MapReduce through Oozie workflows and coordinators. 
-- Reduced data set processing time by 30% by implementing a Ruby delayed job wrapper and queued kick off. Increased the success rate of data set error table population from a ⅖ chance to an almost 100 percent success rate by reconfiguring dependency injection performed by the Guice API on the data set initializer section of the processing pipeline.
-- Managed automated configuration and deployment of jobs and services across environments using HUE, DC/OS, Spinnaker, Chef, Spork, and Splunk. 
+- Developed database services and ETL pipelines that provide metadata and workflows for standard or custom data sets which are loaded from disparate sources, transformed using SQL, then output to cloud databases or as feeds. These data sets are consumed by the application HealtheAnalytics to perform custom transformations, and provide dashboards/reports to analyze or query data.
+- Programmed Ruby on Rails based microservices that implemented MySQL databases for all data sets, triggers, feeds, and workflow processing metadata.
+- Enhanced an ETL Java pipeline that performs big data transformations on custom data sets and communicates with cloud databases to create and load them.
+- Designed, developed, and deployed a Ruby microservice that communicates with datasinks in HDFS clusters and AWS S3 regioned buckets to preview client uploaded files for data set transformations.
+- Deprecated a Ruby service that read a datasink changelog upon request and replaced functionality with a recurring Java workflow that reads new changelog entries and updates database metadata in batches for HDFS. Implemented an AWS Lambda for files uploaded to S3 buckets.
+- Reduced data set processing time by 30 percent by implementing a Ruby delayed job wrapper and queued kick off.
+- Increased the success rate of data set error table population by reconfiguring dependency injection performed with the Guice API while initializing the data set processing pipeline.
+- Managed configuration and automated deployment of jobs and services across environments using DC/OS, Spinnaker, Chef, Spork, and Docker.
+- Investigated and resolved support requests from clients and consultants using Jira.
 
 
-
-2017    _Cerner Corporation_,    Kansas City, Missouri
+Summer 2017    _Cerner Corporation_,    Kansas City, Missouri
 
 **Software Development Intern**
 
-- Programmed and debugged HealtheAnalytics, an interactive web application and interface dealing with big data processing in health and finance analytics using Ruby and Javascript. Engaged in agile development and UX design as part of the HealtheIntent team. Tracked repositories through Github, performed code review using Crucible, and task tracking using Jira.
-- Redesigned and unit tested the Dossier and Dossier Service ruby gems using Ruby on Rails for user authentication between applications.
+- Programmed and debugged HealtheAnalytics, an interactive web application and interface dealing with big data processing in health and finance analytics using Ruby and Javascript. Engaged in agile development, UX design, version control through Github, and code review using Crucible.
+- Redesigned and unit tested ruby services and gems using Ruby on Rails for user authentication between applications.
 
 
-2016    _AllofE_,    Lawrence, Kansas
+Summer 2016    _AllofE_,    Lawrence, Kansas
 
 **Software Development Intern**
 
 - Developed web applications for clients, based in education and clinical practice, and for internal 
-developer and business use. Worked in Javascript and PHP to build frontend pages using the 
-ExtJS framework and the backend communication from client to servers using SQL.
+developer and business use. Worked in Javascript and PHP to build frontend pages using the ExtJS framework and the backend communication from client to servers using SQL.
 
 
 ### Applicable Skills
-- Used C, C++, and Python for implementation of algorithms and data structures in an academic
-setting - Git Repos: [DataStructures560](http://www.github.com/danmur14/DataStructures560), [CompilerConstruction665](https://github.com/danmur14/CompilerConstruction665), [OperatingSystems678](https://github.com/danmur14/OperatingSystems678)
-- Proficient working in Ruby, Javascript, PHP, SQL, HTML, and Github in a professional
-environment with teams and data of different sizes.
-- Experienced in parallel programming using the GPU in OpenCL, CUDA, MPI - Git Repo:
-[MultiGPGPU690](http://www.github.com/danmur14/MultiGPGPU690)
-- Knowledge of low level graphics rendering and languages like GLSL - Git Repo: [Graphics672](http://www.github.com/danmur14/Graphics672)
+- Proficient working in Ruby, Java, Javascript, PHP, SQL, HTML, and Github.
+- Experienced in distributed data systems, processing systems, and deployment/monitoring applications such as HDFS, HUE, AWS S3, Apache Oozie/Hadoop, Spinnaker, DC/OS, NewRelic, and Splunk.
+- Used C, C++, and Python for implementing algorithms and data structures in an academic setting.
+- Academic experience in parallel programming using the GPU in OpenCL, CUDA, and MPI.
+- Knowledge of low level graphics rendering and languages like GLSL.
 - Bilingual in Spanish and English, with the ability to translate. Beginner in Japanese.
+
 
 ### Projects
 - **Pet Environment**: VR environment and pet simulator with integrated neural network built using
@@ -49,7 +52,7 @@ game scene. Implemented item creation and movement when interacted upon by the p
 <img src="https://danmur14.github.io/petting.png" alt="pecat" width="45%"/> <img src="https://danmur14.github.io/pet_menuj.png" alt="pemenu" width="45%"/>
 
 - **Grayscale**: 2D endless runner with a simple color switching ability, built using GameMaker
-Studio. Designed the game system, created the 2D assets, and implemented the gameplay. Wrote simple test cases to check for collisions, death, etc - Git Repo: [Grayscale](http://www.github.com/danmur14/Grayscale)
+Studio. Designed the game system, created the 2D assets, and implemented the gameplay. Wrote simple test cases to check for collisions, death, etc
 
 <img src="https://danmur14.github.io/GS_start.PNG" alt="gsstart" width="45%"/> <img src="https://danmur14.github.io/GS_ig.PNG" alt="gsig" width="45%"/> 
 
