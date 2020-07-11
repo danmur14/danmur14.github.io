@@ -1,6 +1,6 @@
 ## Daniel Murga
 
-Software programmer interested in game development and web programming with professional experience in Java, Ruby, Javascript. Academic experience with Python, C, C++, SQL, HTML, OpenCL, CUDA, and GLSL.
+Software engineer interested in video games, esports, data processing and web development. Experienced in Ruby on Rails, Python, Django, Javascript, Vue.js. Academic experience in C++, C, OpenCL, CUDA, and GLSL. https://danmur14.github.io
 
 ### Professional Experience
 
