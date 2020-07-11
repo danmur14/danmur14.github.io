@@ -4,7 +4,16 @@ Software programmer interested in game development and web programming with prof
 
 ### Professional Experience
 
-Oct, 2018 - Current		 _Cerner Corporation_,    Kansas City, Missouri	
+Mar, 2020 - Present		_Wiseguyz_,				         Newport Beach, California
+
+**Senior Software Engineer Technical Lead**
+
+- Implemented data processing between the Facebook Business API and client Django web application using Python, MongoDB, and PostgreSQL. 
+
+- Created a web application using Django and Vue.js, implemented url routing, object models, private api, frontend, and Javascript api calls.
+
+
+Oct, 2018 - Mar, 2020		 _Cerner Corporation_,    Kansas City, Missouri	
 
 **Software Engineer**
 
