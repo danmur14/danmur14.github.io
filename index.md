@@ -11,6 +11,7 @@ Mar, 2020 - Present		_Wiseguyz_,				         Newport Beach, California
 - Developed integrations to automate data transfer between business management software by leveraging APIs from sources such as NetSuite, Paylocity, Jobvite, Lever, Azure, and Concur.
 - Restructured event driven integration for HR hiring software to Azure cloud hosted Flask web server.
 - Implemented internal web application using Flask and Vue.js, implemented url routing, object models, server configuration, and api design.
+- Configured continuous integration and deployment for all owned services.
 - Processed data between the Facebook Business API and client Django web application using Python, MongoDB, and PostgreSQL.
 - Performed system administration and configured the technology environment for clients with over 100 employees.
 
