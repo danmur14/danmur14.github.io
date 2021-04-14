@@ -8,22 +8,28 @@ Mar, 2020 - Present		_Wiseguyz_,				         Newport Beach, California
 
 **Senior Software Engineer Technical Lead**
 
-- Implemented data processing between the Facebook Business API and client Django web application using Python, MongoDB, and PostgreSQL. 
+- Developed integrations to automate data transfer between business management software by leveraging APIs from sources such as NetSuite, Paylocity, Jobvite, Lever, Azure, and Concur.
 
-- Created a web application using Django and Vue.js, implemented url routing, object models, private api, frontend, and Javascript api calls.
+- Restructured event driven integration for HR hiring software to Azure cloud hosted Flask web server.
+
+- Implemented internal web application using Flask and Vue.js, implemented url routing, object models, server configuration, and api design.
+
+- Processed data between the Facebook Business API and client Django web application using Python, MongoDB, and PostgreSQL.
+
+- Performed system administration and configured the technology environment for clients with over 100 employees.
 
 
 Oct, 2018 - Mar, 2020		 _Cerner Corporation_,    Kansas City, Missouri	
 
 **Software Engineer**
 
-- Developed database services and ETL pipelines that provide metadata and workflows for standard or custom data sets which are loaded from disparate sources, transformed using SQL, then output to cloud databases or as feeds. These data sets are consumed by the application HealtheAnalytics to perform custom transformations, and provide dashboards/reports to analyze or query data.
-- Programmed Ruby on Rails based microservices that implemented MySQL databases for all data sets, triggers, feeds, and workflow processing metadata.
-- Enhanced an ETL Java pipeline that performs big data transformations on custom data sets and communicates with cloud databases to create and load them.
-- Designed, developed, and deployed a Ruby microservice that communicates with datasinks in HDFS clusters and AWS S3 regioned buckets to preview client uploaded files for data set transformations.
-- Deprecated a Ruby service that read a datasink changelog upon request and replaced functionality with a recurring Java workflow that reads new changelog entries and updates database metadata in batches for HDFS. Implemented an AWS Lambda for files uploaded to S3 buckets.
-- Reduced data set processing time by 30 percent by implementing a Ruby delayed job wrapper and queued kick off.
-- Increased the success rate of data set error table population by reconfiguring dependency injection performed with the Guice API while initializing the data set processing pipeline.
+- Developed database services and ETL pipelines that provide metadata and workflows for standard or custom data sets loaded from disparate sources, transformed using SQL, then output to cloud databases or as feeds.
+- Programmed Ruby on Rails based microservices that implemented MySQL databases for all data sets, triggers, history, feeds, and workflow processing metadata.
+- Enhanced an ETL Java pipeline that performs big data transformations, serialization, and reporting on custom data sets and loads them to cloud databases.
+- Implemented a Ruby microservice that communicates with datasinks in HDFS clusters and AWS S3 buckets to preview client uploaded files for data set transformations.
+- Deprecated a Ruby service that read datasink changelog entries and replaced functionality with a recurring Java workflow, updating database metadata in batches for HDFS. For files uploaded to S3 buckets, replaced with an AWS Lambda for higher efficiency.
+- Reduced data set processing time by 30% by implementing a Ruby delayed job wrapper and kick off. 
+- Increased the success rate of data set error table population from 40% to 100% success rate by reconfiguring dependency injection with the Guice API while initializing the processing pipeline.
 - Managed configuration and automated deployment of jobs and services across environments using DC/OS, Spinnaker, Chef, Spork, and Docker.
 - Investigated and resolved support requests from clients and consultants using Jira.
 
@@ -32,20 +38,19 @@ Summer 2017    _Cerner Corporation_,    Kansas City, Missouri
 
 **Software Development Intern**
 
-- Programmed and debugged HealtheAnalytics, an interactive web application and interface dealing with big data processing in health and finance analytics using Ruby and Javascript. Engaged in agile development, UX design, version control through Github, and code review using Crucible.
-- Redesigned and unit tested ruby services and gems using Ruby on Rails for user authentication between applications.
+- Programmed and debugged a web application and interface dealing with big data processing in health and finance analytics using Ruby and Javascript. 
+- Engaged in Agile development, version control through Github, and code review using Crucible.
+- Redesigned and unit tested ruby services and gems using Ruby on Rails and RSpec for user authentication between applications.
 
 
 Summer 2016    _AllofE_,    Lawrence, Kansas
 
 **Software Development Intern**
 
-- Developed web applications for clients, based in education and clinical practice, and for internal 
-developer and business use. Worked in Javascript and PHP to build frontend pages using the ExtJS framework and the backend communication from client to servers using SQL.
-
+- Developed web applications for clients, based in education and clinical practice, developer and business use in Javascript and PHP using the ExtJS framework and communicated using SQL.
 
 ### Applicable Skills
-- Proficient working in Ruby, Java, Javascript, PHP, SQL, HTML, and Github.
+- 2 years working in Ruby, Python, Java. 1 year in Vue.js, Javascript, HTML.
 - Experienced in distributed data systems, processing systems, and deployment/monitoring applications such as HDFS, HUE, AWS S3, Apache Oozie/Hadoop, Spinnaker, DC/OS, NewRelic, and Splunk.
 - Used C, C++, and Python for implementing algorithms and data structures in an academic setting.
 - Academic experience in parallel programming using the GPU in OpenCL, CUDA, and MPI.
